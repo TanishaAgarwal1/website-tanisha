@@ -1,0 +1,129 @@
+body{
+
+    color: white;
+}
+#navbar{
+    
+    top:10px;
+   
+   
+    ;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+div ol{
+    list-style: none;
+    display: flex;
+   
+    padding: 20px;
+    justify-content:center;
+    background-color:  rgb(36, 13, 13);
+    
+    
+}
+.nav-items{
+    margin:0px 20px;
+  
+    
+}
+
+span{
+    display: inline;
+    left: 795px;
+}
+#search{
+    
+    position: relative;
+    left: 23px;
+ top: 60px;
+}
+#but{
+    
+    position: relative;
+    left: 425px;
+}
+button{
+    background-color: #29d9d5;
+    height: 45px;
+    width: 100px;
+    border-radius: 20px;
+}
+button:hover{
+    color: aliceblue;
+
+    
+}
+#intro{
+  
+    height: 100px;
+    background-color: pink;
+    border-radius: 20px;
+    padding: 30px;
+
+}
+span{
+    top: 120px;
+    left: 100px;
+    font-size: 20px;
+    color: blue;
+}
+#main{
+    display: flex;
+    margin-left: 150px;
+    position: relative;
+    margin-top: 30px;
+}
+#pic{
+    position: relative;
+    margin-right: 20px;
+    padding: 200px;
+
+
+
+    
+}
+#pic:hover{
+    background-color: azure;
+}
+#sbody{
+    
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    
+}
+
+.card-img{
+    left: 400px;
+    width: 350px;
+    height: 250px;
+    padding: 3px;
+    border-radius: 30px;
+    }
+    .card:hover{
+        background-color: rgb(8, 40, 78);
+      
+    }
+    #bottom{
+        background-image: url("images/person.jpg");
+        height: 250px;
+        align-items: center;
+
+    }
+    p{
+        font-size: 20px;
+    }
+    #bottom{
+        border-radius: 30px;
+    }
+    footer{
+        height: 300px;
+        background-color: black;
+    }
+    #last{
+        display: flex;
+        justify-content: space-around;
+    }
